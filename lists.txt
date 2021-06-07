@@ -1,0 +1,19 @@
+# My lists
+
+fruits = ['guava', 'pineapple', 'oranges']
+people = ['jack', 'john', 'micheal']
+print(fruits)
+print(people)
+print(">>> i made changes to both my lists, see below")
+fruits.append("cashew")
+people.append('jerry')
+print(fruits)
+print(people)
+print(people[3] + " loves to eat  " + fruits[2])
+# you can easily remove an add items to your lists, eg:
+
+people.pop(3)
+fruits.pop(1)
+print(fruits)
+print(people)
+
