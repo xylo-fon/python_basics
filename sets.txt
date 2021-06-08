@@ -10,12 +10,7 @@ alphabets = 'abcdefg'  # Notice that when this code runs, tho output is differen
 print(alphabets)  # This prints out the actual value of the variable "alphabets" result = abcdefg
 print(set(alphabets))  # The result = {'g', 'f', 'c', 'd', 'a', 'b', 'e'}
 
-print(set(dict1))
-print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
 print(dict1)
-print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
-print(set(dict2))
-print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
 print(dict2)
 '''
 Don't mind me, i played a bit with the script there,
